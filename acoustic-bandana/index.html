@@ -1,0 +1,185 @@
+ <html>
+	<head>
+		<title>Wikispecies to CSL JSON reference parser</title>
+		<meta charset="UTF-8"/>
+    
+    <style>
+      body { font-family:sans-serif; padding:10px;}
+      
+      #input {      
+        font-family:monospace;
+        width:90%;
+        border:1px solid rgb(224,224,224);
+        font-size:1.5em;
+      }
+      
+      #output {
+        font-family:monospace;
+        width:90%;
+        white-space:pre;
+        background-color:#333;
+        color:#80FF00;
+        overflow:auto;
+        padding:10px;
+      }
+    </style>
+		<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+		
+		<script src="/xmldom.js"></script>
+		<script src="/citeproc.js"></script>
+		<script src="/locale.js"></script>
+		<script src="/style.js"></script>
+
+		<!-- the actual parser -->
+		<script src="/parse.js"></script>
+
+
+		
+	</head>
+<body>
+
+<h1>Wikispecies to CSL JSON reference parser</h1>
+
+<div>
+	<div style="width:100%;height:auto;">
+		<h2>Paste Wikispecies reference text here:</h2>
+			<!-- JSON for data object goes below -->
+			<textarea id="input" rows="10">
+* {{a|Ivan Pišút|Pišút, Ivan}} 2002. Alexander Zahlbruckner (1860–1938): The author of two historical milestones in lichenology. ''[[ISSN 0007-2745|The Bryologist]]'' 105(2): 243–245 [http://links.jstor.org/sici?sici=0007-2745%28200222%29105%3A2%3C243%3AAZ%28TAO%3E2.0.CO%3B2-S&size=LARGE (first page).]
+        </textarea>
+  
+    <!--
+* {{a|Oldfield Thomas|Thomas, O.}} 1880. On bats from Old Calabar. ''[[ISSN 0374-5481|Annals and Magazine of Natural History]], series 5'', 6(32): 164–167, 2 figs. {{doi|10.1080/00222938009458914}} {{BHL|page/25170389}} <includeonly>[http://species.wikimedia.org/wiki/Template:Thomas,_1880d Reference page.]        
+-->
+    
+
+        <!--
+* {{a|Maurice Kottelat|Kottelat, M.}} 1988. Authorship, dates of publication, status and types of {{aut|Spix}} and {{aut|Agassiz}}'s Brazilian fishes. [[ISSN 0341-8391|''Spixiana'']] (Munich) v. 11 (no. 1): 69–93. <includeonly>&nbsp;[http://species.wikimedia.org/wiki/Template:Kottelat,_1988 reference page]</includeonly>&nbsp;<noinclude>
+** [http://species.wikimedia.org/wiki/Special:WhatLinksHere/Template:{{BASEPAGENAMEE}} find all Wikispecies pages which cite this reference][[Category:Reference templates]]</noinclude>
+        
+        
+        
+-->
+
+    <!-- 
+*{{aut|[[William Lucas Distant|Distant, W. L.]]}}, 1881. Description of a new species of Lycaenidae from Penang.  ''Ent. mon. Mag'' '''17''': [http://www.biodiversitylibrary.org/item/36506#page/255/mode/1up 245]. <includeonly>[http://species.wikimedia.org/wiki/Template:Distant,_1881 reference page]</includeonly>&nbsp;<noinclude>
+** [http://species.wikimedia.org/wiki/Special:WhatLinksHere/Template:{{BASEPAGENAMEE}} find all Wikispecies pages which cite this reference][[Category:Reference templates]]</noinclude>        
+-->
+
+    
+    <!--         
+* {{a|Hirotsugu Ono|Ono, H.}} & {{a|Akio Tanikawa|Tanikawa, A.}} 1990. A revision of the Japanese spiders of the genus ''Langbiana'' (Araneae, Zodariidae). ''Memoirs of the National Science Museum, Tokyo'' 23: 101–112. [107, f. 13–19] [http://ci.nii.ac.jp/lognavi?name=nels&lang=en&type=pdf&id=ART0006481696 (PDF)] <includeonly>[http://species.wikimedia.org/wiki/Template:Ono_%26_Tanikawa,_1990 Reference page.]</includeonly>&nbsp;<noinclude>
+** [http://species.wikimedia.org/wiki/Special:WhatLinksHere/Template:{{BASEPAGENAMEE}} find all Wikispecies pages which cite this reference][[Category:Reference templates]]</noinclude>        
+
+  -->
+    <!-- * {{aut|[[H. Ono|Ono, H.]]}} 2000: Zoogeographic and taxonomic notes on spiders of the subfamily Heptathelinae (Araneae, Mesothelae, Liphistiidae). ''Memoirs of the National Science Museum of Tokyo'' (A), (33): 145–151. [http://ci.nii.ac.jp/naid/110004313449/en link to PDF]        -->
+
+
+    <!-- * {{a|Renzo Perissinotto|Perissinotto, R.}} 2016. Description of the female of ''Haematonotus jenisi'' {{aut|Krajcik}}, 2006 and placement of the species within the genus ''Atrichiana'' {{aut|Distant}}, 1911 (Coleoptera, Scarabaeidae, Cetoniinae). [[ISSN 1313-2989|''ZooKeys'']] 561: 39–49. {{doi|10.3897/zookeys.561.6136}}.  -->
+    
+    <!-- * {{aut|Hernández-Ledesma, P.}}, {{aut|Olvera, H.F.}} & {{aut|Ochoterena, H.}} 2010. Cladistic Analysis and Taxonomic Synopsis of ''Anulocaulis'' (Nyctaginaceae) Based on Morphological Data. [[ISSN 0363-6445|''Systematic Botany'']] 35(4): 858-876. {{doi|10.1600/036364410X539916}}  -->
+ <!-- * {{aut|Bleeker, P.}} 1851. Visschen van Billiton. ''Natuurkundig Tijdschrift voor Nederlandsch Indië'' 1: 478–479. -->
+
+   
+	</div>
+			<br />
+			<button onclick="convert()">Convert Wikispecies to JSON</button>
+      <button onclick="run_tests()">Run tests</button>
+	<div style="clear:both;"></div>
+	
+	<h2>Formatted result</h2>
+	<div id="csl"></div>
+  <div id="openurl"></div>
+
+	<h2>JSON output (CSL)</h2>
+	<div id="output"></div>
+  
+  <h2>Test cases</h2>
+	<div id="tests"></div>  
+</div>	
+
+<script>		
+//----------------------------------------------------------------------------------------
+function couchdb(doc) {
+  	var citation = parse_reference(doc.text);
+  
+    // openurl
+    if (citation['container-title'] && citation.volume && citation.page) {
+      var openurl = '';
+      var parameters = [];
+      
+      for (var i in citation) {
+        switch (i) {
+
+          case 'author':
+            for (var j in citation[i]) {
+              parameters.push('au=' + citation[i][j].literal);
+            }
+            break;
+            
+          case 'title':
+            parameters.push('atitle=' + citation[i]);
+            break;
+            
+          case 'container-title':
+            parameters.push('title=' + citation[i]);
+            break;
+            
+          case 'volume':           
+            parameters.push('volume=' + citation[i]);
+            break;
+
+          case 'issue':           
+            parameters.push('issue=' + citation[i]);
+            break;
+
+          case 'issued':           
+            parameters.push('year=' + citation[i]['date-parts'][0][0]);
+            break;
+
+          case 'page':   
+            var delimiter = citation[i].indexOf('-');
+            if (delimiter != -1) {
+              parameters.push('spage=' + citation[i].substring(0, delimiter));
+              parameters.push('epage=' + citation[i].substring(delimiter+1));
+           } else {
+              parameters.push('pages=' + citation[i]);
+            }            
+            break;
+           
+        }
+        
+      }
+      
+      openurl = parameters.join('&');
+      $('#openurl').html('<a href="http://direct.biostor.org/openurl?' + openurl + '" target="_new">OpenURL</a>');
+      
+    }
+  
+    format_citation(citation);
+    $('#output').html(JSON.stringify(citation, null, 2));
+
+  
+}
+		
+//----------------------------------------------------------------------------------------
+function convert() {
+  var doc = {};
+	doc.text = $('#input').val();
+  
+  $('#openurl').html('');
+  $('#output').html('');
+	
+	couchdb(doc);
+}
+  
+
+convert();
+
+	
+</script>		
+			
+
+</body>
+</html>				
+
