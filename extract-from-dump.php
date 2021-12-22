@@ -6,10 +6,13 @@ error_reporting(E_ALL);
 
 require_once (dirname(__FILE__) . '/reference_parser.php');
 
-$filename = 'dump/specieswiki-20181001-pages-articles-multistream.xml';
+$filename = 'dump/specieswiki-20211220-pages-articles-multistream.xml';
 
 $file_handle = fopen($filename, "r");
 
+
+$debug = true;
+//$debug = false;
 
 $state = 0;
 $page = '';
@@ -137,9 +140,12 @@ while (!feof($file_handle))
 
 					$count++;
 					
-					if ($count == 100) 
+					if ($debug)
 					{
-						exit();
+						if ($count == 10000) 
+						{
+							exit();
+						}
 					}
 				}
 							
