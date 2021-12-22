@@ -2,6 +2,10 @@
 Parse references in Wikispecies
 
 
+## Wikispecies dumps
+
+Dumps are available from https://dumps.wikimedia.org/backup-index.html
+
 ## Parsing Wikispecies references
 
 Use local version of (acoustic-bandana)[https://acoustic-bandana.glitch.me]. Download source from Glitch, then:
