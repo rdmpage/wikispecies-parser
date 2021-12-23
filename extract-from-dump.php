@@ -7,6 +7,7 @@ error_reporting(E_ALL);
 require_once (dirname(__FILE__) . '/reference_parser.php');
 
 $filename = 'dump/specieswiki-20211220-pages-articles-multistream.xml';
+$filename = 'Minet.xml';
 
 $file_handle = fopen($filename, "r");
 
@@ -31,7 +32,7 @@ while (!feof($file_handle))
 {
 	$line = fgets($file_handle);
 	
-	//echo $line . "\n";
+	// echo "$state | $line\n";
 	
 	switch ($state)
 	{
@@ -51,12 +52,6 @@ while (!feof($file_handle))
 		case 1:
 			if (preg_match('/^\s+<\/page>/', $line))
 			{
-				/*
-				echo "\n\n*****\n\n";
-				echo $page;
-				echo "\n\n*****\n\n";
-				exit();
-				*/
 				
 				// taxonomy
 				$parent = '';
@@ -83,6 +78,8 @@ while (!feof($file_handle))
 					
 					// grab text
 					$obj->text = $page;
+
+					
 					// trim
 					$pos = strpos($obj->text, '<text xml:space="preserve">');
 					if ($pos === false)
@@ -179,6 +176,23 @@ while (!feof($file_handle))
 					$refs[] = $text;
 					//echo $title . "|" . $line . "\n";
 				}
+				
+				// <text bytes="610" xml:space="preserve">
+				if (preg_match('/<text bytes="\d+" xml:space="preserve">\s*\*\s+\{\{a/', $line))
+				{
+					// possible reference
+					
+					$text = trim($line);
+					$text = str_replace('</text>', '', $text);
+					
+					$text = preg_replace('/<text bytes="\d+" xml:space="preserve">/', '', $text);
+					
+					$text = html_entity_decode($text, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+					
+					$refs[] = $text;
+					//echo $title . "|" . $line . "\n";
+				}
+				
 				
 				if (preg_match('/\[\[Category:Taxon authorities\]\]/', $line))
 				{

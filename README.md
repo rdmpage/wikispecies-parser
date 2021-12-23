@@ -27,4 +27,8 @@ php extract-from-dump.php
 
 Which will parse the hard-coded link to the XML dump, extract references, call the `acoustic-bandana` parser, and output references in CSL-JSON.
 
+To get the number of references in the file type `wc -l all.jsonl`.
+
+First attempt found 195598 references.
+
 
