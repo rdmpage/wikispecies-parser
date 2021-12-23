@@ -12,7 +12,7 @@ $file_handle = fopen($filename, "r");
 
 
 $debug = true;
-//$debug = false;
+$debug = false;
 
 $state = 0;
 $page = '';
@@ -142,7 +142,7 @@ while (!feof($file_handle))
 					
 					if ($debug)
 					{
-						if ($count == 10000) 
+						if ($count == 10) 
 						{
 							exit();
 						}
