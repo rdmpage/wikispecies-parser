@@ -27,10 +27,12 @@ while (!feof($file_handle))
     
     $count++;
     
+    /*
     if ($count > 100)    
     {
     	exit();
     }
+    */
     
 	
 }	

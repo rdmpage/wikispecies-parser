@@ -1,0 +1,57 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikispecies</sitename>
+    <dbname>specieswiki</dbname>
+    <base>https://species.wikimedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.13</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikispecies</namespace>
+      <namespace key="5" case="first-letter">Wikispecies talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Template:Minet, 2003</title>
+    <ns>10</ns>
+    <id>1266542</id>
+    <revision>
+      <id>7408647</id>
+      <parentid>7408646</parentid>
+      <timestamp>2020-02-28T23:57:12Z</timestamp>
+      <contributor>
+        <username>LamBoet</username>
+        <id>2791465</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="600" xml:space="preserve">* {{a|Joël Minet|Minet, J.}} 2003. The Epicopeiidae: phylogeny and a redefinition, with description of new taxa (Lepidoptera: Drepanoidea). [[ISSN 0037-9271|''Annales de la Société entomologique de France'' (n.s.)]], 38(4): 463–487. [http://zoologie.umons.ac.be/asef/pdf/2002_38_04/Compact/Minet_ASEF_2002_38%20(04)_463_487_compact.pdf PDF]. &lt;includeonly&gt;[[Template:Minet, 2003|{{int:Reference page}}]].&lt;/includeonly&gt;&amp;nbsp;&lt;noinclude&gt;
+** [[Special:WhatLinksHere/Template:{{BASEPAGENAME}}|{{int:Find all Wikispecies pages which cite this reference}}]].[[Category:Reference templates]]&lt;/noinclude&gt;</text>
+      <sha1>9wtlliewids6k41xwqm0oi37mgmve8x</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -7,7 +7,7 @@ error_reporting(E_ALL);
 require_once (dirname(__FILE__) . '/reference_parser.php');
 
 $filename = 'dump/specieswiki-20211220-pages-articles-multistream.xml';
-$filename = 'Minet.xml';
+//$filename = 'examples/Minet.xml';
 
 $file_handle = fopen($filename, "r");
 
@@ -76,6 +76,7 @@ while (!feof($file_handle))
 					
 					$obj->categories = array();
 					
+					/*
 					// grab text
 					$obj->text = $page;
 
@@ -100,6 +101,7 @@ while (!feof($file_handle))
 					{
 						$obj->text = substr($obj->text, 0, $pos);
 					}
+					*/
 
 					foreach ($refs as $r)
 					{

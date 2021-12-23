@@ -30,5 +30,6 @@ Which will parse the hard-coded link to the XML dump, extract references, call t
 To get the number of references in the file type `wc -l all.jsonl`.
 
 First attempt found 195598 references.
+Second attempt with template parsing found 260152 references.
 
 
