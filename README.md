@@ -1,6 +1,10 @@
-# wikispecies-parser
-Parse references in Wikispecies
+# Wikispecies parser
 
+Parse references in Wikispecies.
+
+## Releases
+
+[![DOI](https://zenodo.org/badge/440792353.svg)](https://zenodo.org/badge/latestdoi/440792353)
 
 ## Wikispecies dumps
 
