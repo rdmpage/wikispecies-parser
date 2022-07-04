@@ -4,4 +4,6 @@
 /acoustic-bandana/node_modules
 
 /dump/*
+!/dump/README.md
+
 all.jsonl

@@ -4,22 +4,26 @@ error_reporting(E_ALL);
 
 // extract references from a Wikispecies dump
 
+// To get individual example
+// https://species.wikimedia.org/wiki/Special:Export/Silvio_Shigueo_Nihei
+
 require_once (dirname(__FILE__) . '/reference_parser.php');
 
 $filename = 'dump/specieswiki-20211220-pages-articles-multistream.xml';
-//$filename = 'examples/Minet.xml';
+$filename = 'examples/Minet.xml';
+$filename = 'examples/Template-Gillung_&_Nihei,_2016.xml';
+//$filename = 'examples/Cicadettini.xml';
 
 $file_handle = fopen($filename, "r");
 
-
 $debug = true;
-$debug = false;
+//$debug = false;
 
 $state = 0;
 $page = '';
 $title = '';
 $refs = array();
-$is_authority = false;
+$subject_type = '';
 
 $timestamp = '';
 
@@ -42,7 +46,7 @@ while (!feof($file_handle))
 				$state = 1;
 				$page = '';
 				$refs = array();
-				$is_authority = false;
+				$subject_type = 'unknown';
 				$timestamp = '';
 				$title = '';
 				//echo ".\n";
@@ -52,57 +56,17 @@ while (!feof($file_handle))
 		case 1:
 			if (preg_match('/^\s+<\/page>/', $line))
 			{
-				
-				// taxonomy
-				$parent = '';
-				if (preg_match('/== Taxonavigation ==\s+\{\{(?<parent>.*)\}\}/Uu', $page, $m))
-				{
-					$parent = $m['parent'];
-				}
-								
-				if ((count($refs) > 0) || ($parent != ''))
+				if ((count($refs) > 0))
 				{
 				
 					$obj = new stdclass;
 					
 					$obj->id = str_replace(' ', '_', $title);
+					$obj->id = str_replace('&amp;', '&', $obj->id);					
 					$obj->title = $title;
 					$obj->timestamp = $timestamp;
-					
-					if ($parent != '')
-					{
-						$obj->taxonavigation = $parent;
-					}
-					
-					$obj->categories = array();
-					
-					/*
-					// grab text
-					$obj->text = $page;
-
-					
-					// trim
-					$pos = strpos($obj->text, '<text xml:space="preserve">');
-					if ($pos === false)
-					{
-						//echo "not found;\n"; exit();
-					}
-					else
-					{
-						$pos += strlen('<text xml:space="preserve">');
-						$obj->text = substr($obj->text, $pos);
-					}
-					
-					$pos = strpos($obj->text, '</text>');
-					if ($pos === false)
-					{
-					}
-					else
-					{
-						$obj->text = substr($obj->text, 0, $pos);
-					}
-					*/
-
+					$obj->type = $subject_type;
+										
 					foreach ($refs as $r)
 					{
 						$citation = new stdclass;
@@ -113,24 +77,41 @@ while (!feof($file_handle))
 						$obj->references[] = $citation;
 					}
 					
-					if ($is_authority)
-					{
-						//echo "*** person ***\n";
-					}
+					//print_r($obj);
 					
 					if (isset($obj->references))
 					{
 						process_references($obj);
+						
+						$reference_count = 1;
 						
 						foreach ($obj->references as $reference)
 						{
 							if (isset($reference->csl) && $reference->csl->status == 'ok')
 							{
 								// link to Wikispecies
-								$reference->csl->source = $obj->id;
+								switch ($obj->type)
+								{
+									case 'reference':
+										$reference->csl->id = 'https://species.wikimedia.org/wiki/' . $obj->id;									
+										break;
+								
+									default:
+										$reference->csl->id = 'https://species.wikimedia.org/wiki/' . $obj->id . '#' . $reference_count;
+										break;
+								}								
+								
+								// cleaning
+								if (isset($reference->csl->{'container-title'}))
+								{
+									$reference->csl->{'container-title'} = preg_replace('/^\[\[/', '', $reference->csl->{'container-title'});
+									$reference->csl->{'container-title'} = preg_replace('/\]\]$/', '', $reference->csl->{'container-title'});
+								}
 							
 								//echo json_encode($reference->csl, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) . "\n";
 								echo json_encode($reference->csl, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) . "\n";
+								
+								$reference_count++;
 							}
 						}
 						
@@ -141,7 +122,7 @@ while (!feof($file_handle))
 					
 					if ($debug)
 					{
-						if ($count == 10) 
+						if ($count == 100) 
 						{
 							exit();
 						}
@@ -198,13 +179,13 @@ while (!feof($file_handle))
 				
 				if (preg_match('/\[\[Category:Taxon authorities\]\]/', $line))
 				{
-					$is_authority = true;
+					$subject_type = 'person';
 				}
-
-				if (preg_match('/\[\[Category:\s*(?<category>.*)\]\]/Uu', $line, $m))
+				
+				if (preg_match('/\[\[Category:Reference templates\]\]/', $line))
 				{
-					$obj->categories[] = $m['category'];
-				}			
+					$subject_type = 'reference';
+				}
 				
 			}
 			break;
