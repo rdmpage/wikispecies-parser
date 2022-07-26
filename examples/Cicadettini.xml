@@ -1,0 +1,223 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikispecies</sitename>
+    <dbname>specieswiki</dbname>
+    <base>https://species.wikimedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikispecies</namespace>
+      <namespace key="5" case="first-letter">Wikispecies talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cicadettini</title>
+    <ns>0</ns>
+    <id>169586</id>
+    <revision>
+      <id>7992334</id>
+      <parentid>7769668</parentid>
+      <timestamp>2020-09-09T04:18:21Z</timestamp>
+      <contributor>
+        <username>Nytexcome</username>
+        <id>891254</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3242" xml:space="preserve">
+=={{int:Taxonavigation}}==
+{{Cicadettini}}
+Subtrbus (1):
+{{subtriblast|Cicadettina}}
+
+Genera ''Incertae sedis'' (15):
+{{g|Berberigetta}}
+{{g|Bispinalta}}
+{{g|Cicadettana}}
+{{g|Germalna}}
+{{g|Kanakia}}
+{{g|Melanesiana}}
+{{g|Murmurillana}}
+{{g|Pakidetta}}
+{{g|Panialna}}
+{{g|Paracicadetta}}
+{{g|Paulaudalna}}
+{{g|Pseudokanakia}}
+{{g|Strepuntalna}}
+{{g|Ueana}}
+{{glast|Vastarena}}
+
+=={{int:Overview of genera}} (114)==
+{{g|Adelia (Cicadidae)|Adelia}}
+{{g|Aestuansella}}
+{{g|Amphipsalta}}
+{{g|Atrapsalta}}
+{{g|Auscala}}
+{{g|Auta}}
+{{g|Berberigetta}}
+{{g|Birrima}}
+{{g|Bispinalta}}
+{{g|Buyisa}}
+{{g|Caledopsalta}}
+{{g|Caliginopsalta}}
+{{g|Chelapsalta}}
+{{g|Cicadetta}}
+{{g|Cicadettana}}
+{{g|Clinata}}
+{{g|Clinopsalta}}
+{{g|Crotopsalta}}
+{{g|Curvicicada}}
+{{g|Diemeniana}}
+{{g|Dimissalna}}
+{{g|Dipsopsalta}}
+{{g|Drymopsalta}}
+{{g|Erempsalta}}
+{{g|Euboeana}}
+{{g|Euryphara}}
+{{g|Ewartia (Cicadidae)|Ewartia}}
+{{g|Falcatpsalta}}
+{{g|Fijipsalta}}
+{{g|Froggattoides}}
+{{g|Gagatopsalta}}
+{{g|Galanga}}
+{{g|Gelidea}}
+{{g|Germalna}}
+{{g|Ggomapsalta}}
+{{g|Graminitigrina}}
+{{g|Graptotettix}}
+{{g|Gudanga}}
+{{g|Haemopsalta}}
+{{g|Heliopsalta}}
+{{g|Heremusina}}
+{{g|Hilaphura}}
+{{g|Huechys}}
+{{g|Kanakia}}
+{{g|Kikihia}}
+{{g|Kobonga}}
+{{g|Kosemia}}
+{{g|Limnopsalta}}
+{{g|Linguacicada}}
+{{g|Maoricicada}}
+{{g|Marteena}}
+{{g|Melampsalta}}
+{{g|Melanesiana}}
+{{g|Mouia}}
+{{g|Mugadina}}
+{{g|Murmurillana}}
+{{g|Myersalna}}
+{{g|Myopsalta}}
+{{g|Nanopsalta}}
+{{g|Neopunia}}
+{{g|Nigripsaltria}}
+{{g|Noongara}}
+{{g|Notopsalta}}
+{{g|Oligoglena}}
+{{g|Pakidetta}}
+{{g|Palapsalta}}
+{{g|Panialna}}
+{{g|Paracicadetta}}
+{{g|Paradina}}
+{{g|Parvittya}}
+{{g|Paulaudalna}}
+{{g|Pauropsalta}}
+{{g|Philipsalta}}
+{{g|Physeema}}
+{{g|Pinheya}}
+{{g|Pipilopsalta}}
+{{g|Platypsalta}}
+{{g|Plerapsalta}}
+{{g|Popplepsalta}}
+{{g|Poviliana}}
+{{g|Pseudokanakia}}
+{{g|Pseudotettigetta}}
+{{g|Punia}}
+{{g|Pyropsalta}}
+{{g|Relictapsalta}}
+{{g|Rhodopsalta}}
+{{g|Rouxalna}}
+{{g|Samaecicada}}
+{{g|Saticula}}
+{{g|Scieroptera}}
+{{g|Scolopita}}
+{{g|Simona}}
+{{g|Stellenboschia}}
+{{g|Strepuntalna}}
+{{g|Sylphoides}}
+{{g|Takapsalta}}
+{{g|Taurella}}
+{{g|Telmapsalta}}
+{{g|Terepsalta}}
+{{g|Tettigetta}}
+{{g|Tettigettacula}}
+{{g|Tettigettalna}}
+{{g|Tettigettula}}
+{{g|Tibeta}}
+{{g|Toxala}}
+{{g|Toxopeusella}}
+{{g|Tympanistalna}}
+{{g|Ueana}}
+{{g|Urabunana}}
+{{g|Uradolichos}}
+{{g|Vastarena}}
+{{g|Xeropsalta}}
+{{g|Xossarella}}
+{{glast|Yoyetta}}
+
+=={{int:Name}}==
+Cicadettini {{a|George Bowdler Buckton|Buckton}}, 1889
+
+=={{int:References}}==
+{{Buckton, 1889}}
+{{Costa et al., 2017}}
+{{Delorme, Jourdan &amp; Mille, 2015}}
+{{Delorme, 2016}}
+{{Delorme, Mille &amp; Jourdan, 2016}}
+{{Ewart, 2018}}
+{{Ewart, Popple &amp; Hill, 2017}}
+{{Ewart, Popple &amp; Marshall, 2015}}
+* {{aut|Gogala, M.}}, {{aut|Trilar, T.}} &amp; {{aut|Drosopoulos, S.}} 2011. Two new species and a new genus of Cicadettini (Hemiptera, Cicadidae) from the Greek island of Evia. ''[[Deutsche Entomologische Zeitschrift]]'' 58(1): 105–117. Abstract: {{doi|10.1002/mmnd.201100007}}. 
+{{Sanborn &amp; Ahmed, 2017}}
+{{Marshall &amp; Hill, 2017a}}
+
+==={{int:Links}}===
+* [http://cicadas.myspecies.info/taxonomy/term/2138 Myspecies Cicadas]
+
+=={{int:Vernacular names}}==
+{{VN
+|ja=チッチゼミ族
+}}
+
+{{Commons|Category:{{PAGENAME}}}}
+[[Category:George Bowdler Buckton taxa]]</text>
+      <sha1>i2b4cg849ox1kzw6c68o62ka34o51in</sha1>
+    </revision>
+  </page>
+</mediawiki>

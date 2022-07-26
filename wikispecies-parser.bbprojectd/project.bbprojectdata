@@ -7,10 +7,13 @@
 		<string>3A12449F-88D3-4A5C-AE83-40AB38A007D8</string>
 		<string>648FFE26-36CA-4151-A0AB-E624F26CCBD6</string>
 		<string>B6070B77-1584-4FEA-8917-A262EF5453D1</string>
+		<string>68A6C66D-FA8B-4F30-B380-6AEBD2B5581B</string>
 		<string>A798088D-6D6E-485C-BD36-33CEBA8E858D</string>
+		<string>DC896CA5-793E-4588-93ED-0EE4C941F172</string>
 		<string>13059221-0D2E-43D8-ADE6-3D7048D6AAB6</string>
 		<string>548B1456-26E4-4281-B568-044C73A23163</string>
 		<string>DB4D30E0-6516-485C-B46D-400B4C068980</string>
+		<string>AFE151B7-7BAD-49FB-8B5A-3ABD1215AA06</string>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
@@ -204,6 +207,56 @@
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
+		<key>68A6C66D-FA8B-4F30-B380-6AEBD2B5581B</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vaywDAAAAAAQQMAAAACupr5ldsy/AFIs1mi1hUh4S
+				urRijwCzYEz1H+nmY/rXHAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAACwAA
+				AAEBAABEZXZlbG9wbWVudAASAAAAAQEAAHdpa2lzcGVj
+				aWVzLXBhcnNlcgAADAAAAAEBAABlbmNvZGluZy5waHAU
+				AAAAAQYAABAAAAAgAAAAMAAAAEQAAABgAAAACAAAAAQD
+				AACEXAAAAAAAAAgAAAAEAwAAlsYDAAAAAAAIAAAABAMA
+				AFkpJQAAAAAACAAAAAQDAAD6OnAAAAAAAAgAAAAEAwAA
+				Fsp1AAAAAAAUAAAAAQYAAJAAAACgAAAAsAAAAMAAAADQ
+				AAAACAAAAAAEAABBxDnp1hVhJBgAAAABAgAAAQAAAAAA
+				AAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAADAAAAAAAA
+				AAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAA
+				AQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJCClucAAAAI
+				AAAAAAQAAEHEFN/EAAAAJAAAAAEBAABFRURCQzQ5NS1E
+				RjUyLTQ1NkEtQjQzMS1GQjYwN0JGMDRBRDEYAAAAAQIA
+				AIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAA
+				LwAAAAAAAAABBQAAGgAAAAEBAABOU1VSTERvY3VtZW50
+				SWRlbnRpZmllcktleQAABAAAAAMDAACXZwAA2AAAAP7/
+				//8BAAAAAAAAABEAAAAEEAAAdAAAAAAAAAAFEAAA4AAA
+				AAAAAAAQEAAADAEAAAAAAABAEAAA/AAAAAAAAAACIAAA
+				2AEAAAAAAAAFIAAASAEAAAAAAAAQIAAAWAEAAAAAAAAR
+				IAAAjAEAAAAAAAASIAAAbAEAAAAAAAATIAAAfAEAAAAA
+				AAAgIAAAuAEAAAAAAAAwIAAA5AEAAAAAAAABwAAALAEA
+				AAAAAAARwAAAIAAAAAAAAAASwAAAPAEAAAAAAAAQ0AAA
+				BAAAAAAAAADsAQCAEAIAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Development/wikispecies-parser/encoding.php</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./encoding.php</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>encoding.php</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
 		<key>A798088D-6D6E-485C-BD36-33CEBA8E858D</key>
 		<dict>
 			<key>ItemData</key>
@@ -249,6 +302,56 @@
 			</dict>
 			<key>ItemName</key>
 			<string>extract-from-dump.php</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>AFE151B7-7BAD-49FB-8B5A-3ABD1215AA06</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vaywDAAAAAAQQMAAAAJ2MW6KDY5p6SIkJsexXB0Nd
+				6XSGkKVfMoWGoaFqAfaIHAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAACwAA
+				AAEBAABEZXZlbG9wbWVudAASAAAAAQEAAHdpa2lzcGVj
+				aWVzLXBhcnNlcgAACgAAAAEBAAB0b19yaXMucGhwAAAU
+				AAAAAQYAABAAAAAgAAAAMAAAAEQAAABgAAAACAAAAAQD
+				AACEXAAAAAAAAAgAAAAEAwAAlsYDAAAAAAAIAAAABAMA
+				AFkpJQAAAAAACAAAAAQDAAD6OnAAAAAAAAgAAAAEAwAA
+				r92lAAAAAAAUAAAAAQYAAJAAAACgAAAAsAAAAMAAAADQ
+				AAAACAAAAAAEAABBxEdS5PRE5BgAAAABAgAAAQAAAAAA
+				AAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAADAAAAAAAA
+				AAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAA
+				AQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJCClucAAAAI
+				AAAAAAQAAEHEFN/EAAAAJAAAAAEBAABFRURCQzQ5NS1E
+				RjUyLTQ1NkEtQjQzMS1GQjYwN0JGMDRBRDEYAAAAAQIA
+				AIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAA
+				LwAAAAAAAAABBQAAGgAAAAEBAABOU1VSTERvY3VtZW50
+				SWRlbnRpZmllcktleQAABAAAAAMDAAAtaAAA2AAAAP7/
+				//8BAAAAAAAAABEAAAAEEAAAdAAAAAAAAAAFEAAA4AAA
+				AAAAAAAQEAAADAEAAAAAAABAEAAA/AAAAAAAAAACIAAA
+				2AEAAAAAAAAFIAAASAEAAAAAAAAQIAAAWAEAAAAAAAAR
+				IAAAjAEAAAAAAAASIAAAbAEAAAAAAAATIAAAfAEAAAAA
+				AAAgIAAAuAEAAAAAAAAwIAAA5AEAAAAAAAABwAAALAEA
+				AAAAAAARwAAAIAAAAAAAAAASwAAAPAEAAAAAAAAQ0AAA
+				BAAAAAAAAADsAQCAEAIAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Development/wikispecies-parser/to_ris.php</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./to_ris.php</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>to_ris.php</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 			<key>UserOverrideItemName</key>
@@ -348,6 +451,56 @@
 			</dict>
 			<key>ItemName</key>
 			<string>reference_parser.php</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>DC896CA5-793E-4588-93ED-0EE4C941F172</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vaywDAAAAAAQQMAAAAAxT0MkWclBEvp8uwr0kynCr
+				IOEwxllZ5U/aEhflw9dEHAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAACwAA
+				AAEBAABEZXZlbG9wbWVudAASAAAAAQEAAHdpa2lzcGVj
+				aWVzLXBhcnNlcgAACQAAAAEBAABmZXRjaC5waHAAAAAU
+				AAAAAQYAABAAAAAgAAAAMAAAAEQAAABgAAAACAAAAAQD
+				AACEXAAAAAAAAAgAAAAEAwAAlsYDAAAAAAAIAAAABAMA
+				AFkpJQAAAAAACAAAAAQDAAD6OnAAAAAAAAgAAAAEAwAA
+				QdylAAAAAAAUAAAAAQYAAJAAAACgAAAAsAAAAMAAAADQ
+				AAAACAAAAAAEAABBwaZiwQAAABgAAAABAgAAAQAAAAAA
+				AAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAADAAAAAAAA
+				AAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAA
+				AQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAJCClucAAAAI
+				AAAAAAQAAEHEFN/EAAAAJAAAAAEBAABFRURCQzQ5NS1E
+				RjUyLTQ1NkEtQjQzMS1GQjYwN0JGMDRBRDEYAAAAAQIA
+				AIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAA
+				LwAAAAAAAAABBQAAGgAAAAEBAABOU1VSTERvY3VtZW50
+				SWRlbnRpZmllcktleQAABAAAAAMDAAAsaAAA2AAAAP7/
+				//8BAAAAAAAAABEAAAAEEAAAdAAAAAAAAAAFEAAA4AAA
+				AAAAAAAQEAAADAEAAAAAAABAEAAA/AAAAAAAAAACIAAA
+				2AEAAAAAAAAFIAAASAEAAAAAAAAQIAAAWAEAAAAAAAAR
+				IAAAjAEAAAAAAAASIAAAbAEAAAAAAAATIAAAfAEAAAAA
+				AAAgIAAAuAEAAAAAAAAwIAAA5AEAAAAAAAABwAAALAEA
+				AAAAAAARwAAAIAAAAAAAAAASwAAAPAEAAAAAAAAQ0AAA
+				BAAAAAAAAADsAQCAEAIAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Development/wikispecies-parser/fetch.php</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./fetch.php</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>fetch.php</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 			<key>UserOverrideItemName</key>

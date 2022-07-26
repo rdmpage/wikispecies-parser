@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikispecies</sitename>
+    <dbname>specieswiki</dbname>
+    <base>https://species.wikimedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.39.0-wmf.18</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikispecies</namespace>
+      <namespace key="5" case="first-letter">Wikispecies talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Silvio Shigueo Nihei</title>
+    <ns>0</ns>
+    <id>737201</id>
+    <revision>
+      <id>8595230</id>
+      <parentid>8279320</parentid>
+      <timestamp>2021-12-15T20:53:56Z</timestamp>
+      <contributor>
+        <username>Thiotrix</username>
+        <id>61739</id>
+      </contributor>
+      <comment>/* Publications */ +1</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="941" xml:space="preserve">'''Silvio Shigueo Nihei''' (1976–), Brazilian entomologist
+* Departamento de Zoologia, Instituto de Biociências, Universidade de São Paulo, rua do Matão, travessa 14, n. 101, 05508-900, Cidade Universitária, São Paulo, SP, Brazil.
+{{Taxa authored}}
+=={{int:Publications}}==
+{{inc}}
+===2010===
+{{Nihei &amp; Toma, 2010}}
+===2015===
+{{Calhau, Lamas &amp; Nihei, 2015}}
+{{Campos et al., 2015}}
+{{Nihei, 2015}}
+{{Nihei, 2015b}}
+
+===2016===
+{{Calhau, Lamas &amp; Nihei, 2016}}
+{{Dios &amp; Nihei, 2016}}
+{{Gillung &amp; Nihei, 2016}}
+{{Nihei, 2016}}
+{{Nihei, 2016a}}
+{{Nihei et al., 2016}}
+{{Pamplona et al., 2016}}
+{{Pinto et al., 2016}}
+{{Wolff, Grisales &amp; Nihei, 2016}}
+{{Wolff, Nihei &amp; de Carvalho, 2016}}
+{{Wolff, Nihei &amp; de Carvalho, 2016a}}
+===2017===
+{{De Campos, Souza-Dias &amp; Nihei, 2017}}
+===2018===
+{{Wood, Nihei &amp; Araujo, 2018}}
+
+{{Authority control}}
+{{DEFAULTSORT:Nihei, Silvio Shigueo}}
+[[Category:Taxon authorities]]
+[[Category:Entomologists]]</text>
+      <sha1>iektbunyt4jhcodeus07c7pftdppsul</sha1>
+    </revision>
+  </page>
+</mediawiki>

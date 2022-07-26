@@ -14,6 +14,11 @@ $filename = 'examples/Minet.xml';
 $filename = 'examples/Template-Gillung_&_Nihei,_2016.xml';
 //$filename = 'examples/Cicadettini.xml';
 
+$filename = 'dump/specieswiki-20220701-pages-articles-multistream.xml';
+
+$filename = 'examples/Meyrick.xml';
+
+
 $file_handle = fopen($filename, "r");
 
 $debug = true;
@@ -122,7 +127,7 @@ while (!feof($file_handle))
 					
 					if ($debug)
 					{
-						if ($count == 100) 
+						if ($count == 10000) 
 						{
 							exit();
 						}
