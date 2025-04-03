@@ -17,7 +17,9 @@ $filename = 'examples/Template-Gillung_&_Nihei,_2016.xml';
 $filename = 'dump/specieswiki-20220701-pages-articles-multistream.xml';
 
 $filename = 'examples/Meyrick.xml';
+$filename = 'Maurice_Pic.xml';
 
+$filename = 'Léon_Marc_Herminie_Fairmaire.xml';
 
 $file_handle = fopen($filename, "r");
 

@@ -5,6 +5,7 @@
 require_once (dirname(__FILE__) . '/csl_utils.php');
 
 $filename = 'Meyrick.json';
+$filename = 'Léon_Marc_Herminie_Fairmaire.jsonl';
 
 $file_handle = fopen($filename, "r");
 while (!feof($file_handle)) 
@@ -15,16 +16,9 @@ while (!feof($file_handle))
     
     if ($obj && isset($obj->title))
     {
-		if (preg_match('/exotic micro/i', $obj->title))
-		{
-			if ($obj->volume == 4)
-			{
-		
-				$ris = csl_to_ris($obj);
-	
-				echo $ris;
-			}
-		}
+		$ris = csl_to_ris($obj);
+
+		echo $ris;
 	}	
     
 	

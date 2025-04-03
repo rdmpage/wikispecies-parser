@@ -1,0 +1,480 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikispecies</sitename>
+    <dbname>specieswiki</dbname>
+    <base>https://species.wikimedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.44.0-wmf.23</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikispecies</namespace>
+      <namespace key="5" case="first-letter">Wikispecies talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Léon Marc Herminie Fairmaire</title>
+    <ns>0</ns>
+    <id>915843</id>
+    <revision>
+      <id>10597916</id>
+      <parentid>10559101</parentid>
+      <timestamp>2025-03-29T17:40:47Z</timestamp>
+      <contributor>
+        <username>Pigsonthewing-bot</username>
+        <id>1492768</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, replaced: {{BHL page| → {{BHL|page/ (49)</comment>
+      <origin>10597916</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47970" sha1="0iv9b1xe0emak2kv9yqlb2j1kx0f2hb" xml:space="preserve">{{Image}}
+'''Léon Marc Herminie Fairmaire''' (1820–1906), French entomologist.
+
+* A specialist in Coleoptera.
+* Wrote 450 scientific papers and other publications relating to Coleoptera.
+
+{{Taxa authored}}
+{{Eponyms}}
+=={{int:Publications}}==
+{{inc}}
+===1848===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1848. Description de quelques Coléoptères nouveaux. I. Espèces nouvelles d'Europe. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (2)6: 167–176. {{BHL|page/9485587}}
+
+===1849===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1849. Essai sur les Coléoptères de la Polynésie. ''[[ISSN 1259-6523|Revue et Magasin de Zoologie Pure et Appliquée]]'' (2) 1: 277–291. {{BHL|page/2343529}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1849. Essai sur les Coléoptères de la Polynésie. ''[[ISSN 1259-6523|Revue et Magasin de Zoologie Pure et Appliquée]]'' (2) 1: 410–422. {{BHL|page/2343670}}
+
+===1850===
+{{Fairmaire, 1850}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1850. Description d'un nouveau genre de Lucanide. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (2)8: 53–57. {{BHL|page/8252275}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1850.  [Communications]. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]] (Bulletin de la Société Entomologique de France)'' (2)8: XVI–XVII. {{BHL|page/8252844}}.
+
+===1851===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1851. Description de sept Coléoptères nouveaux provenant du midi de l'Europe et du Maroc. ''[[ISSN 1259-6523|Revue et Magasin de Zoologie Pure et Appliquée]]'' (2) 3: 527–528. {{BHL|page/2321498}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1851. Monographie du genre ''Cyrtonus''. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (2) 8 [1850]: 535–548. {{BHL|page/8252757}}
+
+===1852===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1852. Quelques Coléoptères nouveaux du midi de l'Europe et du nord du Afrique. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (2)10: 69–93. {{BHL|page/8555743}}
+
+===1854===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1854. Beschreibung einer neuen Käfergattung aus der Familie der Staphylinen. Entomologische ''[[Stettiner Entomologische Zeitung]]'' 15: 73. {{BHL|page/33700600}}
+{{Fairmaire &amp; Laboulbène, 1854}}
+
+===1855===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1855. Rectifications et descriptions d'espèces nouvelles de Coléoptères de la faune méditerranéenne. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (3)3: 307–322. {{BHL|page/32541959}}
+{{Fairmaire &amp; Laboulbène, 1855}}
+
+===1856===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1856. Description de quelques coléoptères nouveaux de la faune européenne. ''[[ISSN 1259-6523|Revue et Magasin de Zoologie Pure et Appliquée]]'' (2) 8: 179–180. {{BHL|page/2303459}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1856. Coléoptères Chilensia a Germain detecta et a L. Fairmaire descripta. ''[[ISSN 1259-6523|Revue et Magasin de Zoologie Pure et Appliquée]]'' (2) 8: 483–485. {{BHL|page/2303347}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1856. Coleoptera Maroccana. ''[[ISSN 1259-6523|Revue et Magasin de Zoologie Pure et Appliquée]]'' (2) 8: 530–531. {{BHL|page/2303418}}
+{{Fairmaire &amp; Laboulbène, 1856}}
+
+===1858===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1858. Miscellanea Entomologica. Deuxième partie. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (3)5[1857]: 725–745. {{BHL|page/8253685}}
+{{Fairmaire &amp; Signoret, 1858}}
+
+===1859===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1859. Miscellanea Entomologica. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (3)7: 21–64. {{BHL|page/32542753}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1859. Notice nécrologique sur Ph. Lareynie, suivie d'observations sur les Coléoptères de l'île de Corse. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (3)7: 261–283. {{BHL|page/32542967}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1859. Description de quelques espèces nouvelles de Coléoptères récoltés par M.Gougelet pendant son voyage en Galice dans le courant de l'année 1859. ''[[ISSN 0037-928X|Bulletin de la Société Entomologique de France]]'' 1859: cl–clii. {{BHL|page/32543536}}
+{{Fairmaire &amp; Germain, 1859}}
+{{Jacquelin du Val &amp; Fairmaire, 1859-1863}}
+
+===1860===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} &amp; {{a|Charles Coquerel|Coquerel C.}} 1860. Essai sur les Coléoptères de Barbarie. II Partie. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (3)8: 145–176. {{BHL|page/30252987}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} &amp; {{a|Charles Coquerel|Coquerel C.}} 1860. Essai sur les Coléoptères de Barbarie. Troisième partie. Fam. Scarabaeidae (suite). ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (3)8: 419–451. {{BHL|page/30253275}}
+{{Fairmaire &amp; Germain, 1860a}}
+{{Fairmaire &amp; Germain, 1860}}
+
+===1861===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} &amp; {{a|Philibert Germain|Germain, P.}} 1861. Coleoptera Chilensia II. Felix Malteste et Cie: 1–8.
+{{Fairmaire &amp; Germain, 1861}}
+
+===1862===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1862 [1861]. Miscellanea Entomologica. Quatrième Partie. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (4) 1: 577–596. {{BHL|page/8256699}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1862. Miscellanea Entomologica. Cinquième Partie. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (4) 2: 547–558. {{BHL|page/8239489}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} &amp; {{a|Philibert Germain|Germain, P.}} 1862 [1861]. Révision des coléoptères du Chili (Staphylinidae) (suite). ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (4) 1: 405–456. {{BHL|page/8256527}}
+
+===1863===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} &amp; {{a|Philibert Germain|Germain, P.}} 1863. Révision des Coléoptères du Chili. Suite. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (4) 2: 721–746. {{BHL|page/8239663}}
+{{Fairmaire, 1863b}}
+
+===1864===
+{{Fairmaire, 1864}}
+
+===1866===
+{{Fairmaire, 1866}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} &amp; {{a|Charles Coquerel|Coquerel, C.}} 1866. Essai sur les Coléoptères de Barbarie. Quatrième partie. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (4) 6: 17–74. {{BHL|page/32544821}}
+
+===1867===
+{{Fairmaire, 1867}}
+
+===1868===
+{{Fairmaire, 1868}}
+{{Fairmaire, 1868a}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1868. Notes sur les Coleoptères recueillis par Charles Coquerel à Madagascar et sur les côtes d'Afrique. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' 4(8): 753–820 {{BHL|page/8557349}}
+
+===1869===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1869. Notes sur les Coleoptères recueillis par Charles Coquerel à Madagascar et sur les côtes d'Afrique. 2e partie. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (4) 9: 179–260. {{BHL|page/32546739}}.
+
+===1870===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1870. Essai sur les Coléoptères de Barbarie septième partie. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (4)10: 369–404. {{BHL|page/46027584}}
+
+===1871===
+{{Fairmaire, 1871a}}
+{{Fairmaire, 1871}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1871. Deux coleoptères nouveaux pour la faune française. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (5) 1: 420. {{BHL|page/8247670}}
+
+===1873===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1873. Diagnoses de divers Coléoptères nouveaux découverts en Algérie. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (5)3: 391–392. {{BHL|page/8238207}}
+{{Fairmaire &amp; Allard, 1873}}
+{{Fairmaire &amp; Raffray, 1873}}
+
+===1875===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1875. Diagnoses de trois Coleoptères nouveaux, decouverts aux environs de Constantinople par M. Amedee Alleon. ''[[ISSN 2022-1606|Bulletin des séances de la Société entomologique de France]]'' 1(63): 218–219. {{BHL|page/35764680}}
+{{Fairmaire, 1875b}}
+
+===1876===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1876. Descriptions de trois Coléoptères nouveaux. ''[[ISSN 1280-4991|Petites Nouvelles Entomologiques]]'' 2(145): 25–26. {{BHL|page/12392569}}
+{{Fairmaire, 1876}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1876. Diagnoses de Coléoptères du nord de l'Afrique. ''[[ISSN 1280-4991|Petites Nouvelles Entomologiques]]'' 2(148): 37–38. {{BHL|page/12392581}}
+{{Fairmaire, 1876d}}
+{{Fairmaire, 1876e}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1876. Description de Coléoptères nouveaux du nord de l'Afrique. ''[[ISSN 1280-4991|Petites Nouvelles Entomologiques]]'' 2(163): 98. {{BHL|page/12392642}}
+
+===1877===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1877. Diagnoses de Coléoptères australiens et mélanésiens. ''[[ISSN 1280-4991|Petites Nouvelles Entomologiques]]'' 2(180): 166–167. {{BHL|page/12392710}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1877. Diagnoses des Coléoptères de la Nouvelle-Bretagne. ''[[ISSN 1280-4991|Petites Nouvelles Entomologiques]]'' 2(185): 185–186. {{BHL|page/12392729}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1877. Descriptions de trois Coléoptères nouveaux pour la faune européenne. ''[[ISSN 2022-1606|Bulletin des séances de la Société entomologique de France]]'' 2(7): 82–83. {{BHL|page/4237732}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1877. Diagnoses de deux lamellicornes Australiens. ''[[ISSN 2022-1606|Bulletin des séances de la Société entomologique de France]]'' 2(12): 145–146. {{BHL|page/4237735}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1877. Diagnoses de plusieurs Coléoptères nouveaux du genre ''Cryptodus''. ''[[ISSN 2022-1606|Bulletin des séances de la Société entomologique de France]]'' 2(16): 179–180. {{BHL|page/237756}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1877. Diagnoses de plusieurs Coléoptères nouveaux du genre ''Cryptodus'' (suite et fin). ''[[ISSN 2022-1606|Bulletin des séances de la Société entomologique de France]]'' 2(17): 191–192. {{BHL|page/4237851}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1877. Diagnoses de trois nouvelles espèces de Scarabéides du genre ''Oryctoderus'' Boisduval. ''[[ISSN 2022-1606|Bulletin des séances de la Société entomologique de France]]'' 2(21): 218–219. {{BHL|page/4238103}}
+
+===1878===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1878. Diagnoses des Coléoptères des îles Viti, Samoa, etc. ''[[ISSN 1280-4991|Petites Nouvelles Entomologiques]]'' 2(208): 278–279. {{BHL|page/12392828}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1878. Descriptions de coléoptères recueillis par M. l'abbé David dans la Chine centrale. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (5) 8: 87–140. {{BHL|page/8232651}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1878. Coléoptères de Cochinchine recueillis par M. le docteur Morice. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'', (5) 8: 269–274. {{BHL|page/8232833}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1878. Description de coléoptères nouveaux d'Amérique. ''[[ISSN 1259-6523|Revue et Magasin de Zoologie Pure et Appliquée]]'' (3) 6: 260–270. {{BHL|page/33975543}}
+{{Deyrolle &amp; Fairmaire, 1878}}
+
+===1879===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1879. Descriptions de coléoptères nouveaux ou peu connus du Musée Godeffroy. ''[[Journal des Museum Godeffroy]]'' 14: 80–114. {{BHL|page/35400537}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1879. Descriptions de Coléoptères nouveaux du nord de l'Afrique. 1re Partie. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (5)9: 155–172. {{BHL|page/8250429}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1879. Description de quelques Coléoptères nouveaux recueillis en Espagne par D.Manuel Martorell y Pena. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (5)9: 241–244. {{BHL|page/8250515}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1879. Description de Coléoptères nouveaux du nord de l'Afrique. 2e Partie. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'', (5) 9: 245–258. {{BHL|page/8250519}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1879. Diagnoses de Coléoptères du Nord de l'Afrique. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(1): 5. {{BHL|page/33928412}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1879. Diagnoses de Coléoptères du Nord de l'Afrique et d'Arabie. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(2): 11–12 [3–4]. {{BHL|page/33928418}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1879. Diagnoses de Coléoptères des îles Viti, Tonga, etc. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(3): 19 [3]. {{BHL|page/33928426}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1879. Diagnoses de Coléoptères Australiens et Polynésiens. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(6): 46. {{BHL|page/33928453}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1879. Diagnoses de Coléoptères Australiens et Polynésiens. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(9): 70. {{BHL|page/33928477}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1879. Diagnoses de Coléoptères Australiens et Polynésiens. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(10): 75–76. {{BHL|page/33928482}}
+
+===1880===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1880. Description d'un Coléoptère nouveau et remarques synonomiques. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(20): 153. {{BHL|page/33928582}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1880. Diagnoses de Coléoptères de la Chine centrale. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(21): 164. {{BHL|page/33928571}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1880. Diagnoses de Coléoptères de Madagascar. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(22): 175. {{BHL|page/33928582}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1880. Diagnoses de Nitidulides d'Afrique. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(23): 181. {{BHL|page/33928582}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1880. Diagnoses de Coléoptères du Maroc. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(24): 190. {{BHL|page/33928597}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1880. Diagnoses de Coléoptères de Nossi-Bé. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(30): 236. {{BHL|page/33928643}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1880. Diagnoses de Coléoptères de Nossi-Bé. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(31): 246. {{BHL|page/33928653}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1880. Diagnoses de Coléoptères de l'île de la Réunion. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(37): 293. {{BHL|page/33928702}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1880. Diagnoses de Coléoptères de l'île de la Réunion. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(38): 300–301. {{BHL|page/33928702}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1880. Diagnoses de Coléoptères de Madagascar. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(39): 307–308. {{BHL|page/33928716}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1880. Diagnoses de Coléoptères de Madagascar. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(40): 316–317. {{BHL|page/33928725}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1880. Diagnoses de nouvelles espèces de g. ''Timarcha''. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(42): 332–333. {{BHL|page/33928741}}
+{{Fairmaire, 1880d}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1880. Description de Coléoptères d'Espagne et Turquie. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (5) 10: 237–244. {{BHL|page/8232085}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1880. Description de quelques Coléoptères de Nossi-Bé. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' (1881) (5) 10: 321–340. {{BHL|page/8232169}}
+
+===1881===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1881. Descriptions de quelques coléoptères de Syrie. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (6) 1: 79–88. {{BHL|page/8995796}}
+{{Fairmaire, 1881b}}
+{{Fairmaire, 1881c}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1881. Description d'une nouvelle espèce européenne de Coléoptères. ''[[ISSN 2022-1606|Bulletin des Séances de la Société entomologique de France]]'' (6) 1: xxvi. {{BHL|page/8996271}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1881. Une nouvelle espèce d&amp;apos;''Aphodius''. ''[[ISSN 2022-1606|Bulletin des Séances de la Société entomologique de France]]'' (6) 1: cxlv. {{BHL|page/8996390}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1881. Diagnoses de Coléoptères de la Mélanésie et de la Micronésie. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(43): 340. {{BHL|page/33928802}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1881. Diagnoses de Coléoptères de Mélanésie. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(44): 348–349. {{BHL|page/33928759}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1881. Diagnoses de Coléoptères de la Micronésie et de la Polynésie. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(45): 359. {{BHL|page/33928772}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1881. Diagnoses de Coléoptères de Mélanésie. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(47): 372–373. {{BHL|page/33928785}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1881. Diagnoses de Coléoptères de Mélanésie. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(48): 381–382. {{BHL|page/33928794}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1881. Diagnoses de Coléoptères de Mélanésie. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(49): 389. {{BHL|page/33928802}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1881. Diagnoses de Coléoptères de Mélanésie. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(51): 406–407. {{BHL|page/33928794}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1881. Diagnoses de Coléoptères nouveaux. ''[[ISSN 1280-4509|Le Naturaliste]]'' 1(53): 421–422. {{BHL|page/33928834}}
+
+===1882===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} &amp; {{a|Eugène Louis Simon|Simon, E.}} 1882. Récoltes entomologiques de M. A. Burdo, sur le trajet de Zanzibar aux grands lacs. ''[[ISSN 0774-5915|Annales de la Société entomologique de Belgique]]'' xliii-lx. [https://books.google.co.uk/books?id=uSc7AQAAMAAJ&amp;pg=PR43 Google Books]{{access|open}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}}, {{a|Johan Wilhelm van Lansberge|Lansberge, V.}} &amp; {{a|Jules Bourgeois|Bougeois}} 1882. Coléoptères recueillis par M. G. Révoil chez les Çomalis. ''In'' {{aut|Révoil, G.}} ''Faune et flore des pays Çomalis.'' Challamel Ainé, Paris. {{BHL|page/36882194}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1882. Notes sur quelques Coléoptères du Soudan et de l'Inde boréale recueillis par MM. Stanislas et Constantin Rembielinski. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (6) 2: 65-68. {{BHL|page/8997376}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1882. Description de trois Coléoptères de l'Afrique septentrionale. ''[[ISSN 2022-1606|Bulletin des séances de la Société entomologique de France]]'' (6) 2: clxxvii-clxviii. [https://archive.org/details/annalesdelasoci621882soci/page/794/mode/2up Internet Archive]
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1882. Description d'un Coléoptère, type d'un genre nouveau de la famille des Staphylinides, découvert en Bulgarie. ''[[ISSN 2022-1606|Bulletin des séances de la Société entomologique de France]]'' (6) 2: clxiv–clxv. [https://archive.org/details/annalesdelasoci621882soci/page/782/mode/2up Internet Archive]
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1882. Diagnoses de trois coléoptères (''Cyrtonus'') nouveaux. ''[[ISSN 1280-4509|Le Naturaliste]]'' 2(3): 19. {{BHL|page/33927171}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1882. Diagnoses de coléoptères abyssins. ''[[ISSN 1280-4509|Le Naturaliste]]'' 2(6): 48. {{BHL|page/33927200}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1882. Diagnoses de coléoptères abyssins. ''[[ISSN 1280-4509|Le Naturaliste]]'' 2(9): 68. {{BHL|page/33927220}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1882. Diagnose d'un nouveau genre de ténébrionide. ''[[ISSN 1280-4509|Le Naturaliste]]'' 2(16): 127. {{BHL|page/33927279}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1882. Diagnoses de coléoptères abyssins. ''[[ISSN 1280-4509|Le Naturaliste]]'' 2(24): 191–192. {{BHL|page/33927343}}
+
+===1883===
+{{Fairmaire, 1883}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1883. Coléoptères de Tripoli. ''[[Stettiner Entomologische Zeitung]]'' 44: 459–460. {{BHL|page/8999714}}
+{{Fairmaire, 1883d}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1883. Description de deux Coléoptères nouveaux de Tunisie: Rhizotrogus et Scaurus. ''[[ISSN 2022-1606|Bulletin des séances de la Société entomologique de France]]'' (6) 3: cxxiv–cxxvi. {{BHL|page/32549128}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1883. Descriptions de trois Coléoptères nouveaux, trouvés en Bulgarie par M. Alléon. ''[[ISSN 2022-1606|Bulletin des séances de la Société entomologique de France]]'' (6) 3: cxli–cxliii. {{BHL|page/32549145}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1883. Descriptions de Coléoptères recueillis par M. le Baron Bonnaire en Algérie. ''[[ISSN 0774-5915|Bulletin ou Comptes-Rendus des Séances de la Société Entomologique de Belgique]]'' 27: xli–xlvii. [https://books.google.co.uk/books?id=g2YBpvLDDUwC&amp;pg=RA1-PR41 Google Books]{{access|open}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1883. Descriptions de quelques Coléoptères Marocains. ''[[ISSN 0774-5915|Bulletin ou Comptes-Rendus des Séances de la Société entomologique de Belgique]]'' Comptes Rendus des séance. 27: cviii–cxi. [https://books.google.co.uk/books?id=g2YBpvLDDUwC&amp;pg=RA1-PR108 Google Books]{{access|open}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1883. Diagnoses de coléoptères abyssins. ''[[ISSN 1280-4509|Le Naturaliste]]'' 2(25): 197. {{BHL|page/33927349}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1883. Diagnoses de coléoptères abyssins. ''[[ISSN 1280-4509|Le Naturaliste]]'' 2(26): 205–206. {{BHL|page/33927357}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1883. Diagnoses de coléoptères de la Nouvelle-Bretagne. ''[[ISSN 1280-4509|Le Naturaliste]]'' 2(30): 238–239. {{BHL|page/33927390}}
+
+===1884===
+{{Fairmaire, 1884a}}
+{{Fairmaire, 1884}}
+{{Fairmaire, 1884b}}
+{{Fairmaire, 1884c}}
+{{Fairmaire, 1884d}}
+{{Fairmaire, 1884e}}
+{{Fairmaire, 1884f}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1884. Description d'une nouvelle espèce de Coléoptère. ''[[ISSN 2022-1606|Bulletin des séances de la Société entomologique de France]]'' (6) 4: xxxv. {{BHL|page/32550519}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1884. Remarques (sur le nom de ''Centraspis''). ''[[ISSN 2022-1606|Bulletin des séances de la Société entomologique de France]]'' (6) 4: xxxv. {{BHL|page/32550519}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1884. Liste des Coléoptères recueillis par M. l'Abbé David à Akbès (Asie mineure) et description des espèces nouvelles. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (6) 4(3): 165–180. {{BHL|page/32550281}} &lt;!-- 24 Dec 1884 --&gt;
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1884. Coléoptères de Madagascar recueillis par Hildebrandt. ''[[Stettiner Entomologische Zeitung]]'' 45: 129–141. {{BHL|page/9003156}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1884. Quelques Coléoptères madécasses. ''[[Stettiner Entomologische Zeitung]]'' 45 (7): 273–277. {{BHL|page/9003300}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1884. Diagnoses de coléoptères nouveaux de Madagascar. ''[[ISSN 1280-4509|Le Naturaliste]]'' 2(46): 364–365. {{BHL|page/33927516}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1884. Description de coléoptères marocains. ''[[ISSN 1280-4509|Le Naturaliste]]'' 2(56): 446–447. {{BHL|page/33927598}}
+
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1884. Liste complémentaire des espéces du genre ''Timarcha''. ''[[ISSN 0210-5160|Anales de la Sociedad Española de Historia Natural]]'' 13: 75–112. {{BHL|page/8155835}}.
+
+===1885===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1885. Note sur les Coléoptères recueillis par M. Ach. Raffray à Madagascar et descriptions des espèces nouvelles. 1re Partie. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (6) 4(4): 225–242. {{BHL|page/32550341}} &lt;!-- 13 May 1885 --&gt;
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1885. Descriptions de trois nouvelles espèces de Coléoptères. ''[[ISSN 2022-1606|Bulletin des séances de la Société entomologique de France]]'' (6) 5: clxxxix. {{BHL|page/10172164}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1885. ''Histoire Naturelle de la France''. 8° partie Coléoptères. E. Deyrolle: 1–336. {{BHL|page/52374859}}
+{{Fairmaire, 1885}}
+{{Fairmaire, 1885a}}
+
+===1886===
+{{Fairmaire, 1886}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1886. Notes sur les Coléoptères recueillis par M. Raffray, à Madagascar et descriptions des espèces nouvelles (2e Partie). ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' 6 (6): 31-96. {{BHL|page/34026447}}
+{{Fairmaire, 1886b}}
+
+===1887===
+{{Fairmaire, 1887}}
+{{Fairmaire, 1887a}}
+{{Fairmaire, 1887b}}
+{{Fairmaire, 1887c}}
+{{Fairmaire, 1887d}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1887. Deux espèces nouvelles de Scolytides, du genre ''Phloeoborus'' Er. ''[[ISSN 2022-1606|Bulletin des Séances de la Société entomologique de France]]'' (6) 7: XVI. {{BHL|page/8231107}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1887. Diagnose d'une nouvelle espèce de ''Lucanus'' provenant de Yunnan. ''[[ISSN 2022-1606|Bulletin des Séances de la Société entomologique de France]]'' (6) 7: XXVII. {{BHL|page/8231119}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1887. Une nouvelle espèce de Longicorne. ''[[ISSN 2022-1606|Bulletin des Séances de la Société entomologique de France]]'' (6) 7: LIV. {{BHL|page/8231146}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1887. Notes sur les coléoptères des environs de Pékin. ''[[ISSN 2496-1078|Revue d'Entomologie]]'' 6: 312–335. {{BHL|page/25447438}}
+
+===1888===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1888 [1887]. Deux Curculionides, communiqués par M. l'abbé David. ''[[ISSN 2022-1606|Bulletin des Séances de la Société entomologique de France]]'' (6) 7: CLXXIX. {{BHL|page/8231271}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1888 [1887]. Descriptions de deux nouvelles espèces de Coléoptères. ''[[ISSN 2022-1606|Bulletin des Séances de la Société entomologique de France]]'' (6) 7: CXCII–CXCIII [192–193]. {{BHL|page/8231284}}
+{{Fairmaire, 1888}}
+{{Fairmaire, 1888a}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1888. Enumération des Coléoptères recueillis par M. le Dr. Hans Schinz dans le Sud de l'Afrique. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (6) 8: 173–202. {{BHL|page/8240921}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1888. Diagnose d'une nouvelles espèce de Cétonides du Yunnan. ''[[ISSN 2022-1606|Bulletin des Séances de la Société entomologique de France]]'': (6) 8: xxxv. {{BHL|page/8241235}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1888. Diagnoses de quelques Coléoptères recueillis à Pekin par M. Provost. ''[[ISSN 2022-1606|Bulletin des Séances de la Société entomologique de France]]'' (6) 8: cc–cci. {{BHL|page/8241400}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1888. Diagnoses de Coléoptères nouveaux de Madagascar. ''[[ISSN 1280-4509|Le Naturaliste]]'' (2) 2(20): 11–12. {{BHL|page/10452847}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1888. Diagnoses de Coléoptères nouveaux de Madagascar. ''[[ISSN 1280-4509|Le Naturaliste]]'' (2) 2(21): 22–23. {{BHL|page/10452858}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1888. Diagnoses de Coléoptères nouveaux de Madagascar. ''[[ISSN 1280-4509|Le Naturaliste]]'' (2) 2(22): 32. {{BHL|page/10452868}}
+
+===1889===
+{{Fairmaire, 1889}}
+{{Fairmaire, 1889a}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1889. Descriptions de Coléoptères de l'Indo-Chine. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (6)8: 333–378. {{BHL|page/8241081}}
+{{Fairmaire, 1889b}}
+{{Fairmaire, 1889c}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1889. Descriptions de nouvelles espèces de Coléoptères. ''[[ISSN 2022-1606|Bulletin des Séances de la Société entomologique de France]]'' (6)9: cxvii–cxix. {{BHL|page/32439181}}
+{{Fairmaire, 1889e}}
+
+===1890===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1890. Note supplémentaire sur les Coléoptères d’Obock. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' (6)10: 547–554. {{BHL|page/8234859}}
+
+===1891===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1891. Descriptions de Coléoptères des montagnes de Kashmir. ''[[ISSN 0774-5915|Bulletin ou Comptes-Rendus des Séances de la Société Entomologique de Belgique]]'' 35: cxxi–cxxxiv. {{BHL|page/12304052}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1891. Coléoptères de l'intérieur de la Chine (Suite: 7e partie). ''[[ISSN 0774-5915|Bulletin ou Comptes-Rendus des Séances de la Société Entomologique de Belgique]]'' 35: clxxxvii–ccxix. {{BHL|page/12304118}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1891. Coléoptères de l'Afrique Orientale. ''[[ISSN 0774-5915|Bulletin ou Comptes-Rendus des Séances de la Société Entomologique de Belgique]]'' 35: cclxxix–cclxxxix. {{BHL|page/12304210}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1891. Notes sur quelques Coléoptères de l'Afrique intertropicale. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' 60: 231–274. {{BHL|page/32547591}}
+* {{Fairmaire, 1891}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1891. Description de nouvelles espèces de Coléoptères. ''[[ISSN 2022-1606|Bulletin des Séances de la Société entomologique de France]]'' 60: cxcii–cxciii. {{BHL|page/32548306}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1891. Contribution à l'étude de la faune Entomologique de faune S. Thomas. ''[[ISSN 0378-4193|O Instituto]]'' 39: 112–116. [https://digitalis-dsp.sib.uc.pt/institutocoimbra/UCBG-A-24-37a41_v039/UCBG-A-24-37a41_v039_item1/P523.html Full text]
+
+===1892===
+{{Fairmaire, 1892}}
+{{Fairmaire, 1892a}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1892. Descriptions de quelques Coléoptères argentins. ''[[ISSN 0774-5915|Annales de la Société entomologique de Belgique]]'' 36: 242–253. {{BHL|page/12848660}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1892. Description d'un nouveau genre de Coléoptère hétéromère. ''[[ISSN 2022-1606|Bulletin des Séances de la Société entomologique de France]]'' 61: vii–viii. {{BHL|page/8255721}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1892. Descriptions de quelques Coléoptères du Turkestan. ''[[ISSN 2022-1606|Bulletin des Séances de la Société entomologique de France]]'' 61: cxxi–cxxiv. {{BHL|page/8255834}}
+
+===1893===
+{{Fairmaire, 1893a}}
+{{Fairmaire, 1893b}}
+{{Fairmaire, 1893c}}
+{{Fairmaire, 1893d}}
+{{Fairmaire, 1893e}}
+{{Fairmaire, 1893}}
+{{Fairmaire, 1893g}}
+{{Fairmaire, 1893f}}
+{{Fairmaire, 1893h}}
+{{Fairmaire, 1893i}}
+{{Fairmaire, 1893j}}
+{{Fairmaire, 1893k}}
+{{Fairmaire, 1893l}}
+{{Fairmaire, 1893m}}
+{{Fairmaire, 1893v}}
+{{Fairmaire, 1893n}}
+{{Fairmaire, 1893o}}
+{{Fairmaire, 1893p}}
+{{Fairmaire, 1893q}}
+{{Fairmaire, 1893r}}
+{{Fairmaire, 1893s}}
+{{Fairmaire, 1893t}}
+{{Fairmaire, 1893u}}
+
+===1894===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1894. Description de cinq Coléoptères exotiques, appartenant au faunes africains et malgache. ''[[ISSN 2022-1606|Bulletin des Séances de la Société entomologique de France]]'' 86–88 (lxxxvi–lxxxviii). [https://books.google.co.uk/books?id=I4jyAAAAMAAJ&amp;pg=PRlxxxvi Google Books]{{access|open}}
+{{Fairmaire, 1894a}}
+{{Fairmaire, 1894}}
+{{Fairmaire, 1894b}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1894. Descriptions de Coléoptères d'Algérie. ''[[ISSN 0774-5915|Annales de la Société entomologique de Belgique]]'' 38: 310–313. {{BHL|page/12853643}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1894. Coléoptères de l'Afrique intertropicale et australe. Deuxième note. ''[[ISSN 0774-5915|Annales de la Société entomologique de Belgique]]'' 38: 314–335. {{BHL|page/12853648}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1894. Coleoptères de l'Afrique intertropicale et australe. Troisième note. ''[[ISSN 0774-5915|Annales de la Société entomologique de Belgique]]'' 38: 651–679. {{BHL|page/12853997}}
+
+===1895===
+{{Fairmaire, 1895b}}
+{{Fairmaire, 1895}}
+{{Fairmaire, 1895a}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1895. Coléoptères nouveaux d'Akbés, des dernières chasses de M. Charles Delagrange. ''[[ISSN 0037-9271|Bulletin de la Société Entomologique de France]]'' 64: cix–cxi. [https://archive.org/details/annalesdelasoci11frangoog/page/n856/mode/2up Internet Archive]{{access|open}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1895. Descriptions d'un genre et de trois espèces de Coléoptères nouveaux. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' ccv–ccv. [https://archive.org/details/annalesdelasoci11frangoog/page/n950/mode/2up Internet Archive]{{access|open}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1895. Descriptions de plusieurs Coléoptères exotiques. Additions et rectifications à la note sur le genre ''Pseudinca''. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 64: ccxxvi–ccxxix. [https://archive.org/details/annalesdelasoci11frangoog/page/n972/mode/2up Internet Archive]{{access|open}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1895. Additions et rectifications à la note sur le genre ''Pseudinca''. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 64: cclvi–cclvii. [https://archive.org/details/annalesdelasoci11frangoog/page/n1002/mode/2up Internet Archive]{{access|open}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1895. Diagnoses de quelques Coléoptères de Madagascar et des îles Séchelles et Notes synonymiques. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 64: cclxxviii–cclxxxiii. [https://archive.org/details/annalesdelasoci11frangoog/page/n1024/mode/2up Internet Archive]{{access|open}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1895. Remarque sur le genre ''Crator''. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 64: cccliii. [https://archive.org/details/annalesdelasoci11frangoog/page/n1098/mode/2up Internet Archive]{{access|open}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1895. Schoch G.: Die Genera und Species meiner Cetonidensammlung. I. Teil: Tribus Goliathidae, Gymnetidae, Madagassae, Schizorrhinidae. E.Zwingli. Zurich: 1–63. [https://www.e-rara.ch/zut/content/zoom/20003170 Full text]
+
+===1896===
+{{Fairmaire, 1896a}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1896. Note sur trois Coléoptères de la Collection de M. R. Oberthür. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' [1896]: 255–257. {{BHL|page/9210245}}
+{{Fairmaire, 1896}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1896. Materiaux pour la faune coléoptèrique de la région Malgache (2e note). ''[[ISSN 0774-5915|Annales de la Société entomologique de Belgique]]'' 40: 452–480. {{BHL|page/12855892}}
+{{Fairmaire L., 1896d}}
+{{Fairmaire L., 1896e}}
+
+===1897===
+{{Fairmaire, 1897}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1897. Matériaux pour la faune coléoptèrique de la région Malgache (3e note). ''[[ISSN 0774-5915|Annales de la Société entomologique de Belgique]]'' 41: 92–119. {{BHL|page/35618720}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1897. Matériaux pour la faune coléoptèrique de la région Malgache (3e note [suite]). ''[[ISSN 0774-5915|Annales de la Société entomologique de Belgique]]'' 41: 164–204. {{BHL|page/35618792}}.
+{{Fairmaire, 1897a}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1897. Description d'une espèce nouvelle du genre ''Phyllognathus''. ''[[ISSN 1872-9231|Notes from the Leyden Museum]]'', 19: 208. {{BHL|page/9642433}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1897. Description de coléoptères nouveaux de la Malaisie, de l'Inde et de la Chine (25e note). ''[[ISSN 1872-9231|Notes from the Leyden Museum]]'' 19: 209–233. {{BHL|page/9642434}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1897. Coléoptères de Szé-Tchouen et de Koui-Tchéou (Chine). ''[[ISSN 1872-9231|Notes from the Leyden Museum]]'' 19: 241–255. {{BHL|page/9642466}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1897. Note sur le genre ''Synapsis'' et description d'une espèce nouvelle. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1897: 25–26. {{BHL|page/9210486}}
+{{Fairmaire, 1897b}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1897. Note complémentaire sur le genre ''Synapsis''. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1897: 117–118. {{BHL|page/9210605}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1897. Descriptions de deux coléoptères nouveaux du Japon. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1897: 166–167. {{BHL|page/210654}}
+
+===1898===
+{{Fairmaire, 1898}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1898. Descriptions de trois coléoptères de île Ishigaki (Japon méridional). ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1898: 14–15. {{BHL|page/9926992}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1898. Description de quatre Coléoptères de Madagascar. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 37–39. {{BHL|page/9927015}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1898. Description d'une Cétonide nouvelle. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1898: 124–125. {{BHL|page/9927125}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1898. Descriptions de Psélaphiens myrmécophiles de Madagascar (Col.). ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1898: 336–338. {{BHL|page/9927337}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1898. Descriptions de Psélaphiens myrmécophiles de Madagascar (Col.). 2e note. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1898: 342–346 {{BHL|page/9927343}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1898. Note XXXI. Quelques Coléoptères de l'Afrique occidentale francaise. ''[[ISSN 1872-9231|Notes from the Leyden Museum]]'' 20: 211-223. {{BHL|page/9633748}}
+{{Fairmaire, 1898a}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1898. Matériaux pour la faune coléoptèrique de la région malgache (6e note). ''[[ISSN 0774-5915|Annales de la Société entomologique de Belgique]]'' 42: 390–439. {{BHL|page/35546586}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1898. Matériaux pour la faune coléoptèrique de la région malgache (7e note). ''[[ISSN 0774-5915|Annales de la Société entomologique de Belgique]]'' 42: 463–499. {{BHL|page/35546659}}
+
+===1899===
+{{Fairmaire, 1899b}}
+{{Fairmaire, 1899a}}
+{{Fairmaire, 1899}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1899. Descriptions de coléoptères nouveaux recueillis en Chine par M. de Latouche. ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' 68: 616–643. {{BHL|page/8431819}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1899. Description de Coléoptères nouveaux de Madagascar. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1899: 76–78. {{{BHL|page/8260498}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1899. Communications. Description d'un Goliathide nouveau. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1899: 103–104. {{BHL|page/8260525}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1899. Description de Coléoptères termitophiles et myrmecophiles de Madagascar. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1899: 315–317. {{BHL|page/8260737}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1899. Liste des Coléoptères recueillis à Madagascar par MM. le Commandant Dorr, de l'Infanterie de Marine (1896–97) et le Lieutenant Jobit, du 13e d'artillerie (1895–96). Lucanidae, Scarabaeidae, Buprestidae, Cleridae, Lymexylonidae, Heteromera, Curculionidae, Bruchidae, Brenthidae, Cerambycidae, Chrysomelidae, Coccinellidae. ''[[ISSN 0750-747X|Mémoires de la Société zoologique de France]]'' 12(1): 11–28. {{BHL|page/10112524}}
+
+=== 1900 ===
+{{Fairmaire, 1900}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1900. Description d'un nouveau genre de Coléoptères du groupe des Rhysopaussides. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1900: 45. {{BHL|page/9210894}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1900. Description d'une espèce nouvelle du genre ''Strongyllium''. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1900: 45–46. {{BHL|page/9210894}}
+{{Fairmaire, 1900c}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1900. Description d'une Luciole nouvelle de Madagascar et de sa larve. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1900: 361–363. {{BHL|page/9211235}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1900. Diagnoses d'insectes recueillis par l'expédition antarctique belge: Hétéromères. ''[[ISSN 0774-5915|Annales de la Société entomologique de Belgique]]'' 44: 111–112. {{BHL|page/35620478}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1900. Description de Colóptères malgaches. ''[[ISSN 0774-5915|Annales de la Société entomologique de Belgique]]'' 44: 241–247. {{BHL|page/35620608}}
+
+===1901===
+{{Fairmaire, 1901}}
+{{Fairmaire, 1901a}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1901. Descriptions de Coléoptères nouveaux, de Madagascar. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1901: 94–97. {{BHL|page/9211464}}
+{{Fairmaire, 1901b}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1901. Descriptions de Coléoptères des montagnes de Sikkim. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1901: 265–268. {{BHL|page/9211635}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1901. Description d’un Staphylinide nouveau de l’Afrique australe [Col.]. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1901: 279–280. {{BHL|page/9211649}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1901. Description de quelques Coléoptères recueillis par M. le Dr. Decorse dans le sud de Madagascar, plateau de l'Androy. ''[[ISSN 1872-9231|Notes from the Leyden Museum]]'', 23(2): 65–84. {{BHL|page/9657900}}
+
+===1902===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1902. Description de Coléoptères de Madagascar. ''[[ISSN 1280-4509|Le Naturaliste]]'', (2) 16: 286–287. {{BHL|page/44498725}}
+{{Fairmaire, 1902a}}
+{{Fairmaire, 1902}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1902. Materiaux pour la faune coléoptèrique de la région Malgache (14e note). ''[[ISSN 0037-9271|Annales de la Société entomologique de France]]'' 71: 532–568. {{BHL|page/8251936}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1902. Description de nouvelles espèces de Coléoptères malgaches. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1902: 224–225. {{BHL|page/9281100}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1902. Descriptions de Coléoptères de Mouy-Tse. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1902: 266–269. {{BHL|page/9281144}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1902. Descriptions de Coléoptères recueillis en Chine par M. de Latouche. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1902: 316–318. {{BHL|page/9281194}}
+
+===1903===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1903. Matériaux pour la faune coléoptèrique de la région malgache (15e note). ''[[ISSN 2496-1078|Revue d'Entomologie]]'' 22: 13–46. {{BHL|page/10976459}}
+{{Fairmaire, 1903}}
+{{Fairmaire, 1903a}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1903. Descriptions de quelques Coléoptères de la faune malgache. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1903: 67–70. {{BHL|page/33455185}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1903. Description d'un genre nouveau de Goliathides. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1903: 150. {{BHL|page/33455268}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1903. Description d'une nouvelle espèce de Goliathide provenant de l'Ukami. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1903: 261–263. {{BHL|page/33455379}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1903. Description de Coléoptères nouveaux de Madagascar. ''[[ISSN 1280-4509|Le Naturaliste]]'' (2) 17: 9–11. {{BHL|page/44529280}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1903. Description de Coléoptères nouveaux de Madagascar. ''[[ISSN 1280-4509|Le Naturaliste]]'' (2) 17: 35–37. {{BHL|page/44529306}}
+
+===1904===
+{{Fairmaire, 1904}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1904. Descriptions de Lamellicornes indo-chinois nouveaux ou peu connus. ''Mission Pavie Indo-Chine 1879-1895'' 3: 86–93 {{BHL|page/53694982}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1904. Note synonymique. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1904: 117. {{BHL|page/8229085}}
+
+===1905===
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1905. Materiaux pour la faune coléoptèrique de la région Malgache (19e note). ''[[ISSN 0774-5915|Annales de la Société entomologique de Belgique]]'' 49: 114–138. {{BHL|page/12283755}}
+* {{a|Léon Marc Herminie Fairmaire|Fairmaire, L.}} 1905. Description d'un nouveau genre de Cétonides. ''[[ISSN 0037-928X|Bulletin de la Société entomologique de France]]'' 1905: 91–92. {{BHL|page/8251115}}
+
+=={{int:References}}==
+* {{a|Albert Léveillé|Léveillé, A.}} 1908. Notice nécrologique sur Léon Fairmaire. ''[[ISSN 0037-9271|Annales de la Société Entomologique de France]]'' 76 [1907]: 529–558. {{BHL|page/8243309}}.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fairmaire, Léon}}
+[[Category:Taxon authorities]]
+[[Category:Entomologists]]</text>
+      <sha1>0iv9b1xe0emak2kv9yqlb2j1kx0f2hb</sha1>
+    </revision>
+  </page>
+</mediawiki>

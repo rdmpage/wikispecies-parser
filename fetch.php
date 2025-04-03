@@ -36,6 +36,7 @@ function get($url, $format = '')
 }
 
 $page_names = array('Edward_Meyrick');
+$page_names = array('Maurice_Pic');
 
 $include_transclusions = true;
 //$include_transclusions = false;
@@ -55,7 +56,7 @@ while (count($page_names) > 0)
 	$dom->loadXML($xml);
 	$xpath = new DOMXPath($dom);
 
-	$xpath->registerNamespace("wiki", "http://www.mediawiki.org/xml/export-0.10/");
+	$xpath->registerNamespace("wiki", "http://www.mediawiki.org/xml/export-0.11/");
 			
 	$nodeCollection = $xpath->query ("//wiki:text");
 	foreach($nodeCollection as $node)

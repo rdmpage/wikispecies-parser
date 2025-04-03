@@ -119,6 +119,10 @@ function csl_to_ris($csl)
 				}
 				break;
 				
+			case 'BHL':
+				$ris_values['UR'][] = 'https://www.biodiversitylibrary.org/page/' . $v;	
+				break;
+								
 			default:
 				break;
 		}
@@ -409,6 +413,11 @@ function csl_to_tsv($csl, $show_headings = false)
 				
 				
 				break;
+				
+			case 'BHL':
+				$tsv['url'] = 'https://www.biodiversitylibrary.org/page/' . $v;	
+				break;
+				
 				
 			default:
 				break;
